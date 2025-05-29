@@ -19,7 +19,7 @@ AtliQ Grands is currently facing challenges due to declining **revenue** and **m
 ## 📁 Project Structure
 
 
-## 📦 Datasets
+## 📦 [Datasets](https://github.com/Deviprasad-pydi/Hospitality_Data_Analysis/tree/Datasets)
 
   - `dim_hotel.csv`
   - `dim_room_type.csv`
