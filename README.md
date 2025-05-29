@@ -25,10 +25,9 @@ AtliQ Grands is currently facing challenges due to declining **revenue** and **m
   - `dim_hotel.csv`
   - `dim_room_type.csv`
   - `dim_customer.csv`
-- **Fact Tables**:
   - `fact_bookings.csv`
-  - `fact_revenue.csv`
-  - `fact_expenses.csv`
+  - `fact_aggregated_bookings.csv`
+  - `new_data_august.csv`
 
 > 💡 The datasets contain ~135,000 records for analysis.
 
