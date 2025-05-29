@@ -21,7 +21,6 @@ AtliQ Grands is currently facing challenges due to declining **revenue** and **m
 
 ## 📦 Datasets
 
-- **Dimension Tables**:
   - `dim_hotel.csv`
   - `dim_room_type.csv`
   - `dim_customer.csv`
@@ -35,7 +34,7 @@ AtliQ Grands is currently facing challenges due to declining **revenue** and **m
 
 ### 1. Data Import & Exploration
 - Loading data using Pandas.
-- Initial EDA to understand the schema and content.
+- Initial exploratory data analysis(EDA) to understand the schema and content.
 
 ### 2. Data Cleaning
 - Handling missing values.
